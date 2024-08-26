@@ -1,2 +1,4 @@
 # CS330
 Computer Graphics and Visualization
+
+I have used an agile workflow to keep track of each task from the design phase (creating scenes, UI, selecting right materials), prototyping objects with multiple functions within our scene, and finally testing all outputs, ensuring iteration for refining according to feedback received throughout the process. This procedure allows designers or even non-developers an opportunity to practice developing basic game development techniques, enabling application in future similar projects. Through following a development approach based primarily upon clear plans, appropriate tool selection, implementation, modular coding, and frequent tests were carried out alongside it. These steps helped me to gain new skills such as 3D modeling skill and capability in UI design.
